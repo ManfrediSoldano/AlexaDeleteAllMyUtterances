@@ -1,0 +1,14 @@
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\bin\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.exe
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\obj\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.csprojAssemblyReference.cache
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\obj\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.AssemblyInfoInputs.cache
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\obj\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.AssemblyInfo.cs
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\bin\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.deps.json
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\bin\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.runtimeconfig.json
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\bin\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.runtimeconfig.dev.json
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\bin\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.dll
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\bin\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.pdb
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\obj\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.csproj.CopyComplete
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\obj\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.dll
+C:\Users\manfr\source\repos\AlexaDeleteAllMyUtterances\AlexaDeleteAllMyUtterances\obj\Debug\netcoreapp3.1\AlexaDeleteAllMyUtterances.pdb
